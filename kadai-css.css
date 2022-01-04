@@ -11,8 +11,6 @@ header {
 }
 
 #menu{
-    margin: 0px;
-    height: 500px;
     width: 300px;
     background-color:#ccccff;
 }
@@ -29,4 +27,5 @@ footer{
 
 #wrapper{
     display: flex;
+    width:1000px;
 }
