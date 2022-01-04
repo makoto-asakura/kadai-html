@@ -5,7 +5,7 @@ header {
     background-color:#ffcccc;
 }
 
-#main,h1,h2,h3,p {
+#main{
     width:700px;
     background-color:#ccffcc;
 }
